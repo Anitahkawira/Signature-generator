@@ -11,7 +11,7 @@ class Template {
               <table style="width:100%; border-collapse: collapse;" cellspacing="0" cellpadding="0" border="0">
               <tr>
                 <td width="80" style="width:80px; max-width:80px;" >
-                  <img width="80" src="images/logo.svg">
+                  <img width="80" max-width ="80" width="80" max-height="80px" src="https://storage.googleapis.com/twiga-email-gen-assets/logo.svg">
                 </td>
                 
                 <td width="15" bgcolor="white" style="width:15px; max-width:15px;"></td>
